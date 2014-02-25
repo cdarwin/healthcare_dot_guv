@@ -3,7 +3,7 @@
 set :bind, '0.0.0.0'
 
 get '/' do
-   wait_for = 1.01
+   wait_for = 0.01
    sleep(wait_for)
    'Hello world!'
 end
