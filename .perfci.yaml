@@ -1,3 +1,4 @@
+port: 4567
 endpoints:
   -
     name: homepage
