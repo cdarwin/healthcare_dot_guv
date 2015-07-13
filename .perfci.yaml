@@ -1,4 +1,6 @@
 port: 4567
+concurrency: 15
+duration: 10
 endpoints:
   -
     name: homepage
